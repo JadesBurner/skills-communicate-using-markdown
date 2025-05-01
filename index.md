@@ -11,3 +11,7 @@
 import math
 a = 3
 ```
+
+- [ ] goon
+- [ ] cleanup
+- [x] cry
